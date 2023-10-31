@@ -27,7 +27,8 @@ resources:
 images:
 - name: quay.io/wpernath/simple-quarkus:latest
   newName: quay.io/wpernath/quarkus-simple-wow
-  newTag: latest
+  newTag: 1.5.5
+  #newTag: latest
   #digest: sha256:77caaa227349475062eccbede76c4debc5cb252976e5d9f6aa52eb8ddce6c761
   #ck: test comment.
   
